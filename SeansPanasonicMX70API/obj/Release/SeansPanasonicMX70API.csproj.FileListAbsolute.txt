@@ -1,0 +1,12 @@
+C:\Sean\SeansPanasonicMX70API\SeansPanasonicMX70API\obj\Release\ResolveAssemblyReference.cache
+C:\Sean\SeansPanasonicMX70API\SeansPanasonicMX70API\bin\Release\SeansPanasonicMX70API.exe.config
+C:\Sean\SeansPanasonicMX70API\SeansPanasonicMX70API\bin\Release\SeansPanasonicMX70API.exe
+C:\Sean\SeansPanasonicMX70API\SeansPanasonicMX70API\bin\Release\SeansPanasonicMX70API.pdb
+C:\Sean\SeansPanasonicMX70API\SeansPanasonicMX70API\obj\Release\SeansPanasonicMX70API.exe
+C:\Sean\SeansPanasonicMX70API\SeansPanasonicMX70API\obj\Release\SeansPanasonicMX70API.pdb
+E:\dev\SeansPanasonicMX70API\SeansPanasonicMX70API\bin\Release\SeansPanasonicMX70API.exe.config
+E:\dev\SeansPanasonicMX70API\SeansPanasonicMX70API\obj\Release\SeansPanasonicMX70API.exe
+E:\dev\SeansPanasonicMX70API\SeansPanasonicMX70API\obj\Release\SeansPanasonicMX70API.pdb
+E:\dev\SeansPanasonicMX70API\SeansPanasonicMX70API\bin\Release\SeansPanasonicMX70API.exe
+E:\dev\SeansPanasonicMX70API\SeansPanasonicMX70API\bin\Release\SeansPanasonicMX70API.pdb
+E:\dev\SeansPanasonicMX70API\SeansPanasonicMX70API\obj\Release\ResolveAssemblyReference.cache

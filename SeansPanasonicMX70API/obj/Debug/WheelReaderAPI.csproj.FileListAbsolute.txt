@@ -1,0 +1,18 @@
+C:\Documents and Settings\Sean\Local Settings\Application Data\Temporary Projects\WheelReaderAPI\bin\Debug\WheelReaderAPI.exe.config
+C:\Documents and Settings\Sean\Local Settings\Application Data\Temporary Projects\WheelReaderAPI\bin\Debug\WheelReaderAPI.exe
+C:\Documents and Settings\Sean\Local Settings\Application Data\Temporary Projects\WheelReaderAPI\bin\Debug\WheelReaderAPI.pdb
+C:\Documents and Settings\Sean\Local Settings\Application Data\Temporary Projects\WheelReaderAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sean\Local Settings\Application Data\Temporary Projects\WheelReaderAPI\obj\Debug\WheelReaderAPI.exe
+C:\Documents and Settings\Sean\Local Settings\Application Data\Temporary Projects\WheelReaderAPI\obj\Debug\WheelReaderAPI.pdb
+C:\Documents and Settings\Sean\My Documents\Visual Studio 2008\Projects\WheelReaderAPI\WheelReaderAPI\bin\Debug\WheelReaderAPI.exe.config
+C:\Documents and Settings\Sean\My Documents\Visual Studio 2008\Projects\WheelReaderAPI\WheelReaderAPI\obj\Debug\WheelReaderAPI.exe
+C:\Documents and Settings\Sean\My Documents\Visual Studio 2008\Projects\WheelReaderAPI\WheelReaderAPI\obj\Debug\WheelReaderAPI.pdb
+C:\WheelReaderAPI\WheelReaderAPI\bin\Debug\WheelReaderAPI.exe.config
+C:\WheelReaderAPI\WheelReaderAPI\obj\Debug\WheelReaderAPI.exe
+C:\WheelReaderAPI\WheelReaderAPI\obj\Debug\WheelReaderAPI.pdb
+C:\WheelReaderAPI\WheelReaderAPI\bin\Debug\WheelReaderAPI.exe
+C:\WheelReaderAPI\WheelReaderAPI\bin\Debug\WheelReaderAPI.pdb
+C:\WheelReaderAPI\WheelReaderAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sbradley\My Documents\Visual Studio 2008\Projects\WheelReader\WheelReaderAPI\bin\Debug\WheelReaderAPI.exe.config
+C:\Documents and Settings\sbradley\My Documents\Visual Studio 2008\Projects\WheelReader\WheelReaderAPI\obj\Debug\WheelReaderAPI.exe
+C:\Documents and Settings\sbradley\My Documents\Visual Studio 2008\Projects\WheelReader\WheelReaderAPI\obj\Debug\WheelReaderAPI.pdb

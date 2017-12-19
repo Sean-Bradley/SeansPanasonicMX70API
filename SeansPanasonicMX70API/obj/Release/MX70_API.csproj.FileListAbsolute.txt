@@ -1,0 +1,12 @@
+C:\APISRC\MX70_API\MatrixAPI\bin\Release\MX70_API.exe.config
+C:\APISRC\MX70_API\MatrixAPI\bin\Release\MX70_API.exe
+C:\APISRC\MX70_API\MatrixAPI\bin\Release\MX70_API.pdb
+C:\APISRC\MX70_API\MatrixAPI\obj\Release\ResolveAssemblyReference.cache
+C:\APISRC\MX70_API\MatrixAPI\obj\Release\MX70_API.exe
+C:\APISRC\MX70_API\MatrixAPI\obj\Release\MX70_API.pdb
+C:\APISRC\MX70_API\MX70_API\bin\Release\MX70_API.exe.config
+C:\APISRC\MX70_API\MX70_API\bin\Release\MX70_API.exe
+C:\APISRC\MX70_API\MX70_API\bin\Release\MX70_API.pdb
+C:\APISRC\MX70_API\MX70_API\obj\Release\ResolveAssemblyReference.cache
+C:\APISRC\MX70_API\MX70_API\obj\Release\MX70_API.exe
+C:\APISRC\MX70_API\MX70_API\obj\Release\MX70_API.pdb

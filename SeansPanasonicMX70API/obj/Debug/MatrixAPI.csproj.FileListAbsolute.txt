@@ -1,0 +1,9 @@
+C:\APISRC\MatrixAPI\MatrixAPI\bin\Debug\MatrixAPI.exe.config
+C:\APISRC\MatrixAPI\MatrixAPI\bin\Debug\MatrixAPI.exe
+C:\APISRC\MatrixAPI\MatrixAPI\bin\Debug\MatrixAPI.pdb
+C:\APISRC\MatrixAPI\MatrixAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\APISRC\MatrixAPI\MatrixAPI\obj\Debug\MatrixAPI.exe
+C:\APISRC\MatrixAPI\MatrixAPI\obj\Debug\MatrixAPI.pdb
+C:\APISRC\MX70_API\MatrixAPI\bin\Debug\MatrixAPI.exe.config
+C:\APISRC\MX70_API\MatrixAPI\obj\Debug\MatrixAPI.exe
+C:\APISRC\MX70_API\MatrixAPI\obj\Debug\MatrixAPI.pdb
